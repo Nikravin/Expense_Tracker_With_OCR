@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "852079634422",
+    "project_id": "expense-tracker-9102a",
+    "storage_bucket": "expense-tracker-9102a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852079634422:android:531e315e916c7d87c4c9d7",
+        "android_client_info": {
+          "package_name": "com.nikravin.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852079634422-qknm203o0fid5lbag311b65d86f85f2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikravin.expense_tracker",
+            "certificate_hash": "3e02147e52665c2176240f4107fbbdbc17ea9169"
+          }
+        },
+        {
+          "client_id": "852079634422-vjcrgtrunrqt9a6m7m2573jqbs70nstu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfwfMuUgE6THFdbk299x55hXdZvuEMOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852079634422-vjcrgtrunrqt9a6m7m2573jqbs70nstu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852079634422-i78hjbdjt0b5lrcnr58bg314s87ua0if.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nikravin.expenseTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
